@@ -1,1 +1,1 @@
-web: npm start
+web: cd test-app && npm start
